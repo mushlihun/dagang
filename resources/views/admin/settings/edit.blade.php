@@ -11,7 +11,7 @@
 			@method('PATCH')
 			<!-- Company name -->
 			<div class="form-group">
-				<label for="name">Comapny Name</label>
+				<label for="name">Company Name</label>
 				<input type="text" name="name" id="name" class="form-control @error('name') is-invalid @enderror" value="{{ $setting->name }}">
 
 				@error('name')
