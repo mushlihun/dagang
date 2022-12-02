@@ -3,16 +3,15 @@
 ### NB: You can use this eCommerce platform as long as you dont remove the footer copyrights. Using this project without copyright footer in production you will need to get commercial lisence.
 
 ### For License, Commercial Purposes and the Premium Superfast Template with PWA and more features Contact me on:-
-- +263 783 044 087 (Calls Or Whatsapp)
-- loydtafireyi@gmail.com
+- mushlihun@live.com
 
 ## eCommerce Web Appliaction
 
-An complete e-commerce solution for your business. Start selling today using ZimCart script.
+An complete e-commerce solution for your business. Start selling today using Dagang script.
 
 # Installation
 
-- [run `` git clone https://github.com/Loydtafireyi/zimcart.git ``].
+- [run `` git clone https://github.com/mushlihun/dagang.git ``].
 - run ``composer update `` .
 - run `` npm install ``.
 - run ``npm run dev``.
@@ -41,48 +40,6 @@ An complete e-commerce solution for your business. Start selling today using Zim
 
 #Admin Credentials
 - admin@admin.com p/s admin123
-
-# Sponors
-- **[https://seamaf.com]**
-
-## Demo
-
- [Working Demo] (http://zimcart.lopriz.com)
-
-## ZimCart eCommerce Features
-
-
-- **[100% CMS]**
-- **[Social Login]**
-- **[Google Recaptcha]**
-- **[Data Visualisation]**
-- **[Real-time Search]**
-- **[Shopping cart]**
-- **[Product attributes]**
-- **[Product categories]**
-- **[Product sub categories]**
-- **[Product Multiple images]**
-- **[Multiple product uploads]**
-- **[System Settings]**
-- **[Image Sliders]**
-- **[Contact messaging]**
-- **[Tax options]**
-- **[Admin Area]**
-- **[Coupons & Discounts]**
-- **[SEO Settings]**
-- **[Dynamic Banners]**
-- **[Messaging System]**
-- **[Facebook Pixel Integration]**
-- **[Paypal Checkout]**
-- **[Payment on delivery]**
-- **[Social Links]**
-- **[Dynamic Terms & privacy policy]**
-
-
-## Businesses using our solution
-
-- **[https://seamaf.com]**
-- **[https://vanessascakes.online]**
 
 # License 
 **[Creative Commons Attribution 4.0	cc-by-4.0]**
